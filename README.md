@@ -1,6 +1,6 @@
 # Desafio-Xadrez
 
-***COMO O CÓDIGO FUNCIONA?***<br>
+***COMO O CÓDIGO FUNCIONA?***<br><br>
 1-O desafio do xadrez começa com os "procedimentos" do processo de recursividade <br>
 2-Depois da parte de recursividade, a função principal do código começa, com as váriaveis sendo declaradas <br>
 3-Depois das declarações das váriaveis, os procedimentos da "torre, bispo, rainha" são chamadas e acionadas<br>
