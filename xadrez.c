@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//RECURSIVIDADE - PROCEDIMENTOS:
+//XADREZ - RECURSIVIDADE - PROCEDIMENTOS:
 
 //recursividade torre
 
